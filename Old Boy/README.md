@@ -2,4 +2,4 @@
 
 Big Muff clone aimed at doom metal and stoner rock tones
 
-v3 is verified and built
+v1 is verified and built
